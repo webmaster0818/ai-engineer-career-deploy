@@ -110,5 +110,10 @@
   <url><loc>https://ai-engineer-career.com/job/nlp-engineer/</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
   <url><loc>https://ai-engineer-career.com/job/ai-researcher/</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
   <url><loc>https://ai-engineer-career.com/job/data-engineer/</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://ai-engineer-career.com/tech/rag-langchain/</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://ai-engineer-career.com/tech/prompt-engineering/</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://ai-engineer-career.com/tech/huggingface-transformers/</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://ai-engineer-career.com/tech/diffusion-image-gen/</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://ai-engineer-career.com/tech/ai-agents/</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
 </urlset>
 

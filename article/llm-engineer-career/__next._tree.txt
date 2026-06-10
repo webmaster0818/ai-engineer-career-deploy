@@ -1,4 +1,4 @@
 :HL["/_next/static/chunks/0goneei4.8-ft.css","style"]
 :HL["/_next/static/chunks/04g7v-xrjyjhx.css","style"]
 :HL["/_next/static/media/ad9c66e761fed85a-s.p.0e4b2z5rxsmxh.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"article","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"llm-engineer-career","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"N1KBYklDza05sAcAe-wCI"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"article","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"llm-engineer-career","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"XNE4XzVwwGjuSLP9M2dja"}
