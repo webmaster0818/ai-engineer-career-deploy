@@ -139,6 +139,12 @@
   <url><loc>https://ai-engineer-career.com/certification/</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
   <url><loc>https://ai-engineer-career.com/glossary/</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
   <url><loc>https://ai-engineer-career.com/glossary/rag/</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://ai-engineer-career.com/glossary/supervised-learning/</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://ai-engineer-career.com/glossary/unsupervised-learning/</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://ai-engineer-career.com/glossary/cnn/</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://ai-engineer-career.com/glossary/gan/</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://ai-engineer-career.com/glossary/zero-shot-few-shot/</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://ai-engineer-career.com/glossary/xai/</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
   <url><loc>https://ai-engineer-career.com/glossary/attention/</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
   <url><loc>https://ai-engineer-career.com/glossary/tokenizer/</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
   <url><loc>https://ai-engineer-career.com/glossary/overfitting/</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
