@@ -139,6 +139,12 @@
   <url><loc>https://ai-engineer-career.com/certification/</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
   <url><loc>https://ai-engineer-career.com/glossary/</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
   <url><loc>https://ai-engineer-career.com/glossary/rag/</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://ai-engineer-career.com/glossary/hyperparameter/</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://ai-engineer-career.com/glossary/loss-function/</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://ai-engineer-career.com/glossary/data-augmentation/</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://ai-engineer-career.com/glossary/roc-auc/</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://ai-engineer-career.com/glossary/batch-epoch/</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://ai-engineer-career.com/glossary/feature-scaling/</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
   <url><loc>https://ai-engineer-career.com/glossary/rnn/</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
   <url><loc>https://ai-engineer-career.com/glossary/ensemble-learning/</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
   <url><loc>https://ai-engineer-career.com/glossary/activation-function/</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
