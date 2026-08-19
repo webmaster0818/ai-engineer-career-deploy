@@ -48,9 +48,9 @@
 <url><loc>https://ai-engineer-career.com/tech/sql-tableau/</loc><priority>0.9</priority><changefreq>monthly</changefreq></url>
 <url><loc>https://ai-engineer-career.com/tech/docker-k8s/</loc><priority>0.9</priority><changefreq>monthly</changefreq></url>
 <url><loc>https://ai-engineer-career.com/interview/questions/</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
-<url><loc>https://ai-engineer-career.com/interview/coding-test/</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+<url><loc>https://ai-engineer-career.com/interview/coding-test/</loc><lastmod>2026-08-19</lastmod><priority>0.9</priority><changefreq>monthly</changefreq></url>
 <url><loc>https://ai-engineer-career.com/interview/portfolio/</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
-<url><loc>https://ai-engineer-career.com/interview/kaggle/</loc><lastmod>2026-07-06</lastmod><priority>0.8</priority><changefreq>monthly</changefreq></url>
+<url><loc>https://ai-engineer-career.com/interview/kaggle/</loc><lastmod>2026-08-19</lastmod><priority>0.9</priority><changefreq>monthly</changefreq></url>
 <url><loc>https://ai-engineer-career.com/interview/skill-map/</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
 <url><loc>https://ai-engineer-career.com/compare/geekly-vs-levtech/</loc><priority>0.9</priority><changefreq>monthly</changefreq></url>
 <url><loc>https://ai-engineer-career.com/compare/specialized-vs-general/</loc><priority>0.9</priority><changefreq>monthly</changefreq></url>
@@ -77,6 +77,8 @@
 <url><loc>https://ai-engineer-career.com/article/ai-salary-negotiation/</loc><priority>0.9</priority><changefreq>monthly</changefreq></url>
 <url><loc>https://ai-engineer-career.com/article/ai-interview-prep/</loc><priority>0.9</priority><changefreq>monthly</changefreq></url>
 <url><loc>https://ai-engineer-career.com/article/ml-certification-guide/</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+<url><loc>https://ai-engineer-career.com/article/tensorflow-career/</loc><lastmod>2026-08-19</lastmod><priority>0.9</priority><changefreq>monthly</changefreq></url>
+<url><loc>https://ai-engineer-career.com/article/pytorch-career/</loc><lastmod>2026-08-19</lastmod><priority>0.9</priority><changefreq>monthly</changefreq></url>
 <url><loc>https://ai-engineer-career.com/company/google-japan/</loc><priority>0.9</priority><changefreq>monthly</changefreq></url>
 <url><loc>https://ai-engineer-career.com/company/amazon-japan/</loc><priority>0.9</priority><changefreq>monthly</changefreq></url>
 <url><loc>https://ai-engineer-career.com/company/mercari/</loc><lastmod>2026-07-05</lastmod><priority>0.9</priority><changefreq>monthly</changefreq></url>
