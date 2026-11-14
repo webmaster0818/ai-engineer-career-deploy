@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://ai-engineer-career.com/</loc><lastmod>2026-10-31</lastmod><priority>1.0</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://ai-engineer-career.com/</loc><lastmod>2026-11-14</lastmod><priority>1.0</priority><changefreq>weekly</changefreq></url>
 <url><loc>https://ai-engineer-career.com/agent/geekly/</loc><lastmod>2026-11-03</lastmod><priority>0.8</priority><changefreq>monthly</changefreq></url>
 <url><loc>https://ai-engineer-career.com/agent/levtech-direct/</loc><lastmod>2026-11-03</lastmod><priority>0.8</priority><changefreq>monthly</changefreq></url>
 <url><loc>https://ai-engineer-career.com/agent/techclips-me/</loc><lastmod>2026-11-03</lastmod><priority>0.8</priority><changefreq>monthly</changefreq></url>
@@ -23,6 +23,11 @@
 <url><loc>https://ai-engineer-career.com/agent/jaic/</loc><lastmod>2026-11-03</lastmod><priority>0.8</priority><changefreq>monthly</changefreq></url>
 <url><loc>https://ai-engineer-career.com/agent/techgo/</loc><lastmod>2026-11-09</lastmod><priority>0.8</priority><changefreq>monthly</changefreq></url>
 <url><loc>https://ai-engineer-career.com/agent/meiko-career/</loc><lastmod>2026-11-03</lastmod><priority>0.8</priority><changefreq>monthly</changefreq></url>
+<url><loc>https://ai-engineer-career.com/agent/workport/</loc><lastmod>2026-11-14</lastmod><priority>0.8</priority><changefreq>monthly</changefreq></url>
+<url><loc>https://ai-engineer-career.com/agent/type-agent/</loc><lastmod>2026-11-14</lastmod><priority>0.8</priority><changefreq>monthly</changefreq></url>
+<url><loc>https://ai-engineer-career.com/agent/recruit-direct-scout/</loc><lastmod>2026-11-14</lastmod><priority>0.8</priority><changefreq>monthly</changefreq></url>
+<url><loc>https://ai-engineer-career.com/agent/wantedly/</loc><lastmod>2026-11-14</lastmod><priority>0.8</priority><changefreq>monthly</changefreq></url>
+<url><loc>https://ai-engineer-career.com/agent/meitec-next/</loc><lastmod>2026-11-14</lastmod><priority>0.8</priority><changefreq>monthly</changefreq></url>
 <url><loc>https://ai-engineer-career.com/job/ai-engineer/</loc><lastmod>2026-11-01</lastmod><priority>0.8</priority><changefreq>monthly</changefreq></url>
 <url><loc>https://ai-engineer-career.com/job/data-scientist/</loc><lastmod>2026-11-01</lastmod><priority>0.8</priority><changefreq>monthly</changefreq></url>
 <url><loc>https://ai-engineer-career.com/job/ml-engineer/</loc><lastmod>2026-11-05</lastmod><priority>0.8</priority><changefreq>monthly</changefreq></url>
@@ -248,7 +253,7 @@
 <url><loc>https://ai-engineer-career.com/job/forward-deployed-engineer/</loc><lastmod>2026-11-01</lastmod><priority>0.8</priority><changefreq>monthly</changefreq></url>
 <url><loc>https://ai-engineer-career.com/job/context-engineer/</loc><lastmod>2026-11-01</lastmod><priority>0.8</priority><changefreq>monthly</changefreq></url>
 <url><loc>https://ai-engineer-career.com/job/ai-evals-engineer/</loc><lastmod>2026-11-01</lastmod><priority>0.8</priority><changefreq>monthly</changefreq></url>
-<url><loc>https://ai-engineer-career.com/agent/</loc><lastmod>2026-11-03</lastmod><priority>0.8</priority><changefreq>weekly</changefreq></url>
+<url><loc>https://ai-engineer-career.com/agent/</loc><lastmod>2026-11-14</lastmod><priority>0.8</priority><changefreq>weekly</changefreq></url>
 <url><loc>https://ai-engineer-career.com/job/domain-specific-data-scientist/</loc><lastmod>2026-11-01</lastmod><priority>0.8</priority><changefreq>monthly</changefreq></url>
 <url><loc>https://ai-engineer-career.com/certification/vs/g-test-vs-jdla-generative-ai-test/</loc><lastmod>2026-10-20</lastmod><priority>0.7</priority><changefreq>monthly</changefreq></url>
 <url><loc>https://ai-engineer-career.com/certification/vs/aws-ml-engineer-associate-vs-aws-ai-practitioner/</loc><lastmod>2026-10-19</lastmod><priority>0.7</priority><changefreq>monthly</changefreq></url>
